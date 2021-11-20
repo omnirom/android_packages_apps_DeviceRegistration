@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DeviceRegistration</string>
+    <string name="device_registration">Device registration</string>
+    <string name="google_services_framework_id">Google Services Framework ID</string>
+    <string name="copy_button">Copy</string>
+    <string name="register_button">Register</string>
+    <string name="info_text">Use \'Copy\' button then use \'Register\' to view the Google device registration page at\n\'https://www.google.com/android/uncertified\'\nThere paste the Google Services Framework ID in the text box at the bottom.</string>
+    <string name="browser_dialog_text">There is no browser app installed to open the Google device registration page at \n\'https://www.google.com/android/uncertified\'\nPlease install a browser from OmniStore or any other provider.</string>
+    <string name="browser_dialog_title">Can not open page</string>
+</resources>

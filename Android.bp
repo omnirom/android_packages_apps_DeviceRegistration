@@ -1,0 +1,25 @@
+android_app {
+  name: "DeviceRegistration",
+  manifest: "app/src/main/AndroidManifest.xml",
+  sdk_version: "current",
+
+  srcs: [
+    "app/src/main/**/*.kt",
+  ],
+
+  resource_dirs: [
+    "app/src/main/res/",
+  ],
+
+  static_libs: [
+    "androidx.core_core",
+    "androidx.appcompat_appcompat",
+    "com.google.android.material_material",
+  ],
+
+  kotlincflags: ["-Xjvm-default=enable"],
+  
+  optimize: {
+    enabled: false,
+  },
+}
