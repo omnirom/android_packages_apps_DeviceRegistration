@@ -4,4 +4,6 @@
     <dimen name="title_text_size">24sp</dimen>
     <dimen name="header_text_size">18sp</dimen>
     <dimen name="other_text_size">16sp</dimen>
+    <dimen name="grid_item_icon_size">32dp</dimen>
+    <dimen name="fragment_icon_margin_start">10dp</dimen>
 </resources>
